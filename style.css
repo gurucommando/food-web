@@ -1,0 +1,124 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+
+
+.navigation ul li{
+    list-style: none;
+    padding:8px 60px;
+    float: left;
+    background-color: crimson;
+    overflow: hidden;
+    border: 1px solid white;
+    font-weight: bold;
+    font-size: 20px;
+    width: 180px;
+    
+}
+
+
+
+}
+
+.navigation ul li:hover{
+    background-color: teal;
+}
+
+.image{
+    background-image: url(images/salaad4.jpg);
+    background-size: cover;
+    width:100%;
+    height:800px;
+
+}
+
+.salaad{
+    font-size:100px;
+    font-weight: bold;
+    padding: 140px 100px;
+}
+
+.salaad1{
+    font-size: 20px;
+    margin:-120px 115px;
+    }
+
+.salaad2{
+    font-size:15px;
+    margin: 130px 30px;
+}
+
+.chef{
+    font-size:60px ;
+    font-weight: bold;
+    margin: 40px 0px;
+}
+.menu{
+    margin:10px 100px;
+}
+
+
+.pear{
+    margin: 100px 80px;
+    font-size: 25px;
+}
+.di{
+    float:right;
+    margin:-215px 25px;
+    font-size: 25px;
+}
+.farm{
+    margin:100px 80px;
+    font-size: 25px;
+}
+.kale{
+    float: right;
+    margin:-190px 140px;
+    font-size: 25px;
+}
+
+.gnud{
+    margin:100px 80px;
+    font-size: 25px;
+}
+.can{
+    float: right;
+    margin:-215px 80px ;
+    font-size: 25px;
+}
+
+.img1{
+    margin: 100px 150px;
+}
+.img2{ 
+    margin: 100px 150px;
+
+}
+.img3{
+    float: right;
+    margin: -600PX 150PX;
+
+}
+.img4{
+    float: right;
+    margin:-300px 150px;
+}
+.tosh{
+    padding:30px;
+}
+.table{
+    text-align:center;
+    margin-left: 200px;
+    
+}
+.ttab{
+    margin:-90px 250px;
+   
+    
+}
+
+
+
+
